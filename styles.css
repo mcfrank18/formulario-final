@@ -1,0 +1,77 @@
+.principal {
+    background-color: rgb(247, 240, 233);
+}
+.padre {
+    width: 900px;   
+}
+
+.hijo1 {
+    border-color: rgb(168, 0, 0);
+}
+
+.parrafo {
+    color: rgb(238, 103, 103);   
+}
+
+.hijo2 {
+    background-color: rgb(250, 180, 162);
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.hijo3 {
+   display: flex;
+    justify-content: space-between; 
+    margin-bottom: 10px;
+}
+
+.bisnieto  {
+    display: block;
+}
+
+.hijo4 {
+    display: flex;
+    justify-content: space-between;  
+    margin-bottom: 10px;
+}  
+
+.nieto4 {
+    float: left;
+}
+
+.nieto5 {
+    float: right;
+}
+.hijo5 {
+    display: flex;
+    justify-content: space-between; 
+    margin-bottom: 10px;
+}
+.nieto6 {
+    float: left;
+}
+
+.nieto7 {
+    float: right;
+}
+
+.bisnieto6{
+    background-color:rgb(173, 173, 173);
+}
+.h4{
+    margin: 0px;
+}
+.p{
+    margin-block-start: 0px;
+}
+.hijo6 {
+    display: flex;
+    justify-content: space-between; 
+    margin-bottom: 10px;
+}
+.hijo7{
+    display: flex;
+    justify-content: right;
+    margin-bottom: 10px;
+}
